@@ -3,7 +3,16 @@
   <img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150" hspace="20"/>
   <img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150" hspace="20"/>
 </p>
-# Hello, I'm Rohan Suhan Pinto
+
+<h1 align="center">
+  Hello, I'm Rohan Suhan Pinto 👋
+</h1>
+
+<h3 align="center">
+   IT Support | Cybersecurity
+</h3>
+                                            
+
 <a href="https://linkedin.com/in/rohan-pinto-0b20b1271/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
