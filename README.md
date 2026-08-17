@@ -61,7 +61,17 @@ This repository serves as a record of my learning journey, documenting hands-on 
 [PC Assembly](https://github.com/Rohanpinto3/Assembling-a-PC) · [PC Disassembly](https://github.com/Rohanpinto3/Disassembling-a-PC) · [Desktop Rebuild](https://github.com/Rohanpinto3/Disassemble-Rebuild-a-Desktop-PC) · Hardware Troubleshooting
 
 ---
+## Security Projects
 
+| **Project** | **Focus** |
+|---|---|
+| [Static Malware Analysis Lab](https://github.com/Rohanpinto3/Static-Malware-Analysis-Lab) | Static analysis, Linux tools, file inspection and malware indicators |
+| [CyberChef Cryptography Lab](https://github.com/Rohanpinto3/Cyberchef-Lab-cryptography) | Hashing, encoding, cryptography and data analysis |
+| [SQL Security Investigation](https://github.com/Rohanpinto3/SQL-security-investigation) | Log investigation, filtering, pattern analysis and SQL |
+| [Python Cybersecurity Automation](https://github.com/Rohanpinto3/Automate-Cybersecurity-Tasks-with-Python) | Python scripting and security task automation |
+| [Cybersecurity Notes](https://github.com/Rohanpinto3/Cybersecurity-Notes) | Security concepts, tools, techniques and study notes |
+
+---
 
 ## Tools & Technologies
 
@@ -77,8 +87,6 @@ This repository serves as a record of my learning journey, documenting hands-on 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-2596BE?style=for-the-badge&logo=linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-
 
 ### Microsoft & IT Administration
 
@@ -139,13 +147,4 @@ This repository serves as a record of my learning journey, documenting hands-on 
 
 
 
-## Security Projects
-
-| **Project** | **Focus** |
-|---|---|
-| [Static Malware Analysis Lab](https://github.com/Rohanpinto3/Static-Malware-Analysis-Lab) | Static analysis, Linux tools, file inspection and malware indicators |
-| [CyberChef Cryptography Lab](https://github.com/Rohanpinto3/Cyberchef-Lab-cryptography) | Hashing, encoding, cryptography and data analysis |
-| [SQL Security Investigation](https://github.com/Rohanpinto3/SQL-security-investigation) | Log investigation, filtering, pattern analysis and SQL |
-| [Python Cybersecurity Automation](https://github.com/Rohanpinto3/Automate-Cybersecurity-Tasks-with-Python) | Python scripting and security task automation |
-| [Cybersecurity Notes](https://github.com/Rohanpinto3/Cybersecurity-Notes) | Security concepts, tools, techniques and study notes |
 
