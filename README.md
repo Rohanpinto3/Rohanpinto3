@@ -1,8 +1,8 @@
-
-
 <h1 align="center">
-  Hello, I'm Rohan Suhan Pinto 👋
+  Hello, I'm Rohan Suhan Pinto
+  <img src="https://files.catbox.moe/wxy9ct.png" width="48" height="48" />
 </h1>
+
 
 <h3 align="center">
    IT Support | Cybersecurity
