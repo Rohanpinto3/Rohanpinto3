@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hello, I'm Rohan Suhan Pinto
-  <img src="https://files.catbox.moe/wxy9ct.png" width="48" height="48" />
+  Hello, I'm Rohan Suhan Pinto 👋
 </h1>
 
 
