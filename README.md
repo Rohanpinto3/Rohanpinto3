@@ -1,8 +1,4 @@
-<p align="center">
-  <img alt="Pepillo" src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif" width="150" hspace="20"/>
-  <img alt="Omarcito" src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width="150" hspace="20"/>
-  <img alt="Mamagallo" src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" width="150" hspace="20"/>
-</p>
+
 
 <h1 align="center">
   Hello, I'm Rohan Suhan Pinto 👋
@@ -27,7 +23,7 @@ I am building practical skills in IT support, system administration, networking,
 This repository serves as a record of my learning journey, documenting hands-on labs, technical projects, and experiences that reflect real-world environments.
 
 
-## Skills
+## Highlighted Projects
 
 | **Project** | **What I Worked On** |
 |---|---|
@@ -67,7 +63,7 @@ This repository serves as a record of my learning journey, documenting hands-on 
 ---
 
 
-## Tools
+## Tools & Technologies
 
 ### Operating Systems
 
@@ -104,8 +100,6 @@ This repository serves as a record of my learning journey, documenting hands-on 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-666666?style=for-the-badge&logo=linux&logoColor=white)
-![GNOME Boxes](https://img.shields.io/badge/GNOME%20Boxes-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
-![osTicket](https://img.shields.io/badge/osTicket-444444?style=for-the-badge)
 ![Spiceworks](https://img.shields.io/badge/Spiceworks-3A3A3A?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
