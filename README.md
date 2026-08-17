@@ -28,16 +28,17 @@ This repository serves as a record of my learning journey, documenting hands-on 
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Active Directory          | <a href="https://google.com">User Management Lab</a>|
-| Windows Administration | <a href="https://google.com">Windows Server Configuration Lab</a>|
-| IT Troubleshooting         | Ticket Simulation #001|
-| Networking (DNS, DHCP, TCP/IP)      | DNS & DHCP Lab|
-| PowerShell                  | User Account Automation Lab|
-| Virtualization | Windows Server Home Lab Setup|
+| **Project** | **What I Worked On** |
+|---|---|
+| [IT Helpdesk Ticketing System Lab](https://github.com/Rohanpinto3/IT-Helpdesk-Ticketing-System-Lab) | osTicket, ticket handling, troubleshooting and support workflows |
+| [Enterprise Active Directory Lab](https://github.com/Rohanpinto3/enterprise-Active-Directory-lab) | Windows Server, Active Directory, Group Policy and file sharing |
+| [Active Directory Troubleshooting](https://github.com/Rohanpinto3/enterprise-Active-Directory-lab/tree/main/08%20-%20Troubleshooting%20Active%20Directory) | Diagnosing and resolving common Active Directory issues |
+| [Microsoft 365 & Entra Helpdesk Lab](https://github.com/Rohanpinto3/Microsoft-365-Entra-Helpdesk-Lab) | Microsoft 365, Entra ID, user management and support |
+| [Wireshark Lab](https://github.com/Rohanpinto3/Wireshark-Lab) | Packet capture, protocol inspection and network traffic analysis |
+| [Remote IT Support Helpdesk Lab](https://github.com/Rohanpinto3/Remote-IT-Support-Helpdesk-Lab) | RDP, AnyDesk and remote troubleshooting |
+| [Linux System Administration Lab](https://github.com/Rohanpinto3/Linux-basics-and-System-Administration-Lab) | Linux users, permissions and system administration |
+| [Switch Configuration](https://github.com/Rohanpinto3/Switch-Configuration) | VLANs, switch ports and Cisco Packet Tracer |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -62,15 +63,15 @@ This repository serves as a record of my learning journey, documenting hands-on 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## [**Certifications**](https://github.com/Rohanpinto3/Certificates-)
+
+
+
+Google Cybersecurity Professional Certificate
+Cisco Networking Academy — Introduction to Cybersecurity
+Forage — Service Desk Job Simulation
+Deloitte — Cyber Job Simulation
+Forage — Cybersecurity Job Simulation
 
 ## Projects
 - Detection Lab
