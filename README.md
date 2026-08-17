@@ -29,7 +29,7 @@ This repository serves as a record of my learning journey, documenting hands-on 
 |---|---|
 | [IT Helpdesk Ticketing System Lab](https://github.com/Rohanpinto3/IT-Helpdesk-Ticketing-System-Lab) | osTicket, ticket handling, troubleshooting and support workflows |
 | [Enterprise Active Directory Lab](https://github.com/Rohanpinto3/enterprise-Active-Directory-lab) | Windows Server, Active Directory, Group Policy and file sharing |
-| [Active Directory Troubleshooting](https://github.com/Rohanpinto3/enterprise-Active-Directory-lab/tree/main/08%20-%20Troubleshooting%20Active%20Directory) | Diagnosing and resolving common Active Directory issues |
+| [Active Directory Troubleshooting](https://github.com/Rohanpinto3/enterprise-Active-Directory-lab/tree/main/08%20-%20Troubleshooting%20Active%20Directory) | Diagnosing and resolving common Active Directory issues | 
 | [Microsoft 365 & Entra Helpdesk Lab](https://github.com/Rohanpinto3/Microsoft-365-Entra-Helpdesk-Lab) | Microsoft 365, Entra ID, user management and support |
 | [Wireshark Lab](https://github.com/Rohanpinto3/Wireshark-Lab) | Packet capture, protocol inspection and network traffic analysis |
 | [Remote IT Support Helpdesk Lab](https://github.com/Rohanpinto3/Remote-IT-Support-Helpdesk-Lab) | RDP, AnyDesk and remote troubleshooting |
@@ -38,9 +38,10 @@ This repository serves as a record of my learning journey, documenting hands-on 
 
 ----
 
+
 ## IT Support & Administration
 
-### Windows / Microsoft
+### Windows / Microsoft 
 
 [Active Directory](https://github.com/Rohanpinto3/enterprise-Active-Directory-lab) · [Microsoft 365](https://github.com/Rohanpinto3/Microsoft-365-Entra-Helpdesk-Lab) · [Entra ID](https://github.com/Rohanpinto3/Microsoft-365-Entra-Helpdesk-Lab) · Windows Server · Group Policy · DNS · DHCP · PowerShell
 
@@ -80,8 +81,9 @@ This repository serves as a record of my learning journey, documenting hands-on 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)   
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) <img align="right" src="https://github.com/user-attachments/assets/012caba2-839e-41f8-a8c0-d0f374e0c07c" width="180">
+
 ![Nobara](https://img.shields.io/badge/Nobara-5B2C83?style=for-the-badge&logo=linux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -144,7 +146,6 @@ This repository serves as a record of my learning journey, documenting hands-on 
 <a href="https://github.com/Rohanpinto3/Certificates-/blob/main/Cert-Docs/Forage-Cybersecurity-Job-Simulation.pdf">
   <img src="https://img.shields.io/badge/Forage-Cybersecurity_Simulation-0A66C2?style=for-the-badge&logoColor=white" />
 </a>
-
 
 
 
