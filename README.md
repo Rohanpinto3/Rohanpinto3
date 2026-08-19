@@ -26,15 +26,14 @@ This repository serves as a record of my learning journey, documenting hands-on 
 
 | **Project** | **What I Worked On** |
 |---|---|
-| [IT Helpdesk Ticketing System Lab](https://github.com/Rohanpinto3/IT-Helpdesk-Ticketing-System-Lab) | osTicket, ticket handling, troubleshooting and support workflows |
 | [Enterprise Active Directory Lab](https://github.com/Rohanpinto3/enterprise-Active-Directory-lab) | Windows Server, Active Directory, Group Policy and file sharing |
 | [Active Directory Troubleshooting](https://github.com/Rohanpinto3/enterprise-Active-Directory-lab/tree/main/08%20-%20Troubleshooting%20Active%20Directory) | Diagnosing and resolving common Active Directory issues | 
 | [Microsoft 365 & Entra Helpdesk Lab](https://github.com/Rohanpinto3/Microsoft-365-Entra-Helpdesk-Lab) | Microsoft 365, Entra ID, user management and support |
 | [Wireshark Lab](https://github.com/Rohanpinto3/Wireshark-Lab) | Packet capture, protocol inspection and network traffic analysis |
 | [Remote IT Support Helpdesk Lab](https://github.com/Rohanpinto3/Remote-IT-Support-Helpdesk-Lab) | RDP, AnyDesk and remote troubleshooting |
 | [Linux System Administration Lab](https://github.com/Rohanpinto3/Linux-basics-and-System-Administration-Lab) | Linux users, permissions and system administration |
+| [IT Helpdesk Ticketing System Lab](https://github.com/Rohanpinto3/IT-Helpdesk-Ticketing-System-Lab) | Spiceworks, osTicket, ticket handling, troubleshooting and support workflows |
 | [Switch Configuration](https://github.com/Rohanpinto3/Switch-Configuration) | VLANs, switch ports and Cisco Packet Tracer |
-
 ----
 
 
