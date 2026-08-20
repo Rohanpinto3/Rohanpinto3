@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-   IT Support | Cybersecurity
+ |  IT Support | 
 </h3>
                                             
 
