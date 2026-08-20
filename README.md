@@ -12,12 +12,12 @@
 
 
 
-I'm a self-taught learner who enjoys understanding how systems work, troubleshooting technical issues, and building practical skills through hands-on projects and labs.
+I'm a self-taught learner. I like figuring out how systems work under the hood, troubleshooting technical issues, and giving old hardware new life by repurposing it with open-source software and tools.
 
 ## Objective
 
 
-I am building practical skills in IT support, system administration, networking, and security operations while working toward a career in a Security Operations Center (SOC).
+I am building practical skills in IT support, system administration, networking, and security operations.
 
 This repository serves as a record of my learning journey, documenting hands-on labs, technical projects, and experiences that reflect real-world environments.
 
